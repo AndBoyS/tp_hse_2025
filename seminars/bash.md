@@ -11,3 +11,5 @@ Bash и основные команды.
 > [bash commands cheatsheet](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
 
 > [bash script cheatsheet](https://devhints.io/bash)
+
+Сопровождающие лекции: [Этапы развития проекта](../lectures/project_evolution.md) и [Базовые понятия о языках программирования](../lectures/language_types.md)
