@@ -23,7 +23,7 @@
 
 - Если у вас *Windows*, варианты:
 	- (`в.1`) Использовать сервер
-		- В интернете много вариантов, [пример](https://cloud.ru/) с бесплатным тиром
+		- В интернете много вариантов, [пример](https://cloud.ru/) с бесплатным тиром (нужно будет привязать карту)
 	- (`в.2`) Установить себе WSL (*Windows Subsystem for Linux*)
 		- [Одна из инструкций, как это сделать](https://docs.microsoft.com/ru-ru/windows/wsl/install)
 		- Нужно будет после установки [поставить себе git](https://learn.microsoft.com/ru-ru/windows/wsl/tutorials/wsl-git)
