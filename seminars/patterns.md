@@ -4,6 +4,6 @@
 - Dependency injection
 - Протоколы
 - Инкапсуляция
-- Closure, cohesion
+- Coupling, cohesion
 
 Сопровождающие лекции: [Принципы разработки ПО ч.1](../lectures/project_principles1.md) и [Принципы разработки ПО ч.2](../lectures/project_principles2.md)
